@@ -11,6 +11,7 @@ Configuration
 locald has a configuration file, locald.ini, which is a standard .ini file. In
 it, you define any locald settings and any services locald should be managing.
 
+
 A basic configuration that manages two services might look like:
 ```!ini
 [locald]
